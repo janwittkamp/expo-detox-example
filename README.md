@@ -1,5 +1,8 @@
 # expo-detox-example
 
+
+test with
+
 * Expo SDK 38
 * Detox 17.3
 * Mocha 8
@@ -21,3 +24,10 @@ run your first test
 yarn detox
 ```
 
+Detox for more test informations:
+
+https://github.com/wix/Detox
+
+Expo Docs:
+
+https://docs.expo.io/guides/
